@@ -1,6 +1,6 @@
 👋 Hi, I'm **Cornelius Jacob**
 
-In a world defined by constant change, I thrive on the challenge of building digital legacies that are as functional as they are inspiring. I am a **curator of growth** and a strategist of the digital frontier, always looking toward the next horizon of innovation.
+In a world defined by constant change, I thrive on the challenge of building digital legacies that are as functional as they are inspiring.
 
 ## 📝 Recent Writings
   
