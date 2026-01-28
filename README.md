@@ -6,8 +6,5 @@ In a world defined by constant change, I thrive on the challenge of building dig
   
 • [Shopify SEO: A Practical Guide That Actually Works](https://www.jacobcornelius.com/2026/01/shopify-seo-practical-guide-that.html) - January 27, 2026  
 
-
-[![Website](https://img.shields.io/badge/View%20Archives-1%20Posts-blue?style=for-the-badge&logo=website&logoColor=white)](https://jacobcornelius.com)
-
 **📫 Connect**  
 [✉️ Email](mailto:hello@jacobcornelius.com) • [🌐 jacobcornelius.com](https://jacobcornelius.com)
