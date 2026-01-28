@@ -2,7 +2,7 @@
 
 In a world defined by constant change, I thrive on the challenge of building digital legacies that are as functional as they are inspiring. I am a **curator of growth** and a strategist of the digital frontier, always looking toward the next horizon of innovation. I'm also...
 
-• [PhD Candidate** (Expected 2026)](https://scholar.google.com/citations?user=L1ampz0AAAAJ&hl=en) 
+• [PhD Candidate (Expected 2026)](https://scholar.google.com/citations?user=L1ampz0AAAAJ&hl=en) 
 
 • [Sending](https://jacobcornelius.com/subscribe) weekly newsletter on SEO, E-Commerce, Amazon, WordPress, Digital Marketing to 1,000+ subscribers
 
