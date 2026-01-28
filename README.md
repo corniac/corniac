@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm **Cornelius Jacob**
 
-<!--
-**corniac/corniac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In a world defined by constant change, I thrive on the challenge of building **digital legacies** that are as functional as they are inspiring. I am a **curator of growth** and a **strategist of the digital frontier**, always looking toward the next horizon of innovation.
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/badge/View%20Archives-2%20Posts-blue?style=for-the-badge&logo=website&logoColor=white)](https://jacobcornelius.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**🛠️ Tech Stack**  
+
+Hugo - Cloudflare - GitHub Actions - SEO - Email Automation - WordPress - Digital Marketing - Amazon - E-Commerce
+
+**📫 Connect**  
+[✉️ Email](mailto:hello@jacobcornelius.com) • [🌐 jacobcornelius.com](https://jacobcornelius.com)
