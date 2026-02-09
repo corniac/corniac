@@ -4,7 +4,7 @@ In a world defined by constant change, I thrive on the challenge of building dig
 
 ## 📝 Recent Writings
   
-• [Shopify SEO: A Practical Guide That Actually Works](https://www.jacobcornelius.com/2026/01/shopify-seo-practical-guide-that.html) 
+• [SEO Content Writing 2026: How to Create Content That Ranks #1 and Converts](https://www.jacobcornelius.com/2026/02/seo-content-writing-2026-how-to-create.html)
 
 **📫 Connect**  
-[✉️ Email](mailto:hello@jacobcornelius.com) • [🌐 jacobcornelius.com](https://jacobcornelius.com)
+[✉️ Email](mailto:contact@jacobcornelius.com) • [🌐 jacobcornelius.com](https://www.jacobcornelius.com)
