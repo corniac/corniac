@@ -1,4 +1,4 @@
-👋 Hi, I'm **Cornelius Jacob**
+👋 Hi, I'm **Corneliu Iacob**
 
 In a world defined by constant change, I thrive on the challenge of building digital legacies that are as functional as they are inspiring.
 
