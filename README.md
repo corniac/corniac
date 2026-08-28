@@ -4,7 +4,7 @@ In a world defined by constant change, I thrive on the challenge of building dig
 
 ## 📝 Recent Writings
   
-• [SEO Content Writing 2026: How to Create Content That Ranks #1 and Converts](https://www.jacobcornelius.com/2026/02/seo-content-writing-2026-how-to-create.html)
+• [SEO Content Writing 2026: How to Create Content That Ranks #1 and Converts](https://www.corneliu-iacob.com)
 
 **📫 Connect**  
 [✉️ Email](mailto:hello@corneliu-iacob.com) • [🌐 corneliu-iacob.com](https://www.corneliu-iacob.com)
