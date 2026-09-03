@@ -1,10 +1,13 @@
 👋 Hi, I'm **Corneliu Iacob**
 
-In a world defined by constant change, I thrive on the challenge of building digital legacies that are as functional as they are inspiring.
+E-Commerce Solutions Architect & Technical SEO Specialist with 20+ years of experience.
 
+### Core Stack
+- **Languages:** Shopify Liquid, HTML5, CSS3, Javascript, PHP
+- **Specialties:** Core Web Vitals Optimization, Platform Migrations, Structured Data Schema, Custom Theme Sections, App-Free Optimization.
 ## 📝 Recent Writings
   
-• [SEO](https://www.corneliu-iacob.com)
+• [Shopify SEO](https://www.corneliu-iacob.com)
 
 **📫 Connect**  
 [✉️ Email](mailto:hello@corneliu-iacob.com) • [🌐 corneliu-iacob.com](https://www.corneliu-iacob.com)
